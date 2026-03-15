@@ -76,6 +76,7 @@ This research helped create a store that looks **professional and market-ready**
 # 🛠️ Technologies Used
 
 * HTML5
+* Typescript
 * CSS3
 * JavaScript
 * Responsive Design Techniques
